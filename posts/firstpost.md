@@ -1,5 +1,5 @@
 ---
-title: Team Notes 
+title: Team Notes (Week 10)
 description: This is a post about the final project. 
 date: 2022-03-20
 tags:
