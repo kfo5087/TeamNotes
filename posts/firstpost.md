@@ -34,3 +34,8 @@ A container component + a "guess" component so at least 2 if not more components
 User input needs to allow for guessing while revealing the letters that are correct along the way
 Don't require typing correct letters over again
 When game is over, show how many got it right
+
+## Solution Brainstorm
+
+Diagram of the relationship between front end and back end:
+![relationship](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dnxiqtu7wwu6olvlxezs.jpg)
