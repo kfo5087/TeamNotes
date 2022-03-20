@@ -10,4 +10,4 @@ layout: layouts/post.njk
 
 ## Link to repo powering 11ty site
 
-[Repo](https://github.com/TaylorMorini/TeamNotes)
+[Repo](https://github.com/kfo5087/TeamNotes)
