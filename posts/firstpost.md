@@ -44,13 +44,13 @@ When game is over, show how many got it right
 ![front](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6eugevbsf8ogx3t19p6x.png)
 
 * What does the API look like?
-- The API can return which user guesses are correct/incorrect (POST API)
-- Potential solution: cloud based storage API? 
+ The API can return which user guesses are correct/incorrect (POST API)
+    Potential solution: cloud based storage API? 
 
 * What data does the front end have that the back end needs?
-- Input data (words the user guesses)
+ Input data (words the user guesses)
 
 * What information does the back end need to bring to the front end?
-- Correct user guesses
-- User guesses that are correct, not placed correctly
-- User guesses that are incorrect
+Correct user guesses
+User guesses that are correct, not placed correctly
+User guesses that are incorrect
