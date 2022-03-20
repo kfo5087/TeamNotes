@@ -37,5 +37,20 @@ When game is over, show how many got it right
 
 ## Solution Brainstorm
 
-Diagram of the relationship between front end and back end:
+* Diagram of the relationship between front end and back end:
 ![relationship](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dnxiqtu7wwu6olvlxezs.jpg)
+
+* Starting to draw the front end, pointing out how different aspects of it are handled visually
+![front](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6eugevbsf8ogx3t19p6x.png)
+
+* What does the API look like?
+- The API can return which user guesses are correct/incorrect (POST API)
+- Potential solution: cloud based storage API? 
+
+* What data does the front end have that the back end needs?
+- Input data (words the user guesses)
+
+* What information does the back end need to bring to the front end?
+- Correct user guesses
+- User guesses that are correct, not placed correctly
+- User guesses that are incorrect
