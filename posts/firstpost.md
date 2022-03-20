@@ -8,12 +8,6 @@ layout: layouts/post.njk
 ---
 Project: [word-guess-game] Make a letters that make up a word game 
 
-## Brief Description of Project
-
-Creating a word-guess-game web component that follows a set of rules established by the multiple clones that exist (some allow infinite guessing, some a limited amount, some let you pick a new word, etc) but this must have a well defined set of rules that I agree to.
-Make a microservice on vercel that picks a word at random for the user to play
-
-
 ## Microservice Requirements
 
 READ web service must serve up a word of the day
