@@ -1,5 +1,5 @@
 ---
-title: Endpoints
+title: Some Backend Notes
 description: This is a list of potential endpoints
 date: 2022-03-22
 tags:
