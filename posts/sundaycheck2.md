@@ -25,6 +25,9 @@ layout: layouts/post.njk
     ![wordle](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aflsgpu7nmnw6ytvv3qi.png)
 - Sharing : copies results to clipboard 
     ![wordle results](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h7eon4rwta6b61gu72jq.png)
+
+    maybe use: ![sharing](https://patternflyelements.org/components/clipboard/)
+
 - Word not in database
     - Spellcheck API? ?
 ## Open Source Endpoints/Potential Solutions
@@ -52,4 +55,7 @@ layout: layouts/post.njk
       - Connect to the spell check api
       - Read the user input, return whichever letters are correct
           - this is position based, going to need to know where letters are specifically
+          
+
+  
      
