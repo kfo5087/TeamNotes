@@ -26,7 +26,7 @@ layout: layouts/post.njk
 - Sharing : copies results to clipboard 
     ![wordle results](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h7eon4rwta6b61gu72jq.png)
 
-    maybe use: ![sharing](https://patternflyelements.org/components/clipboard/)
+    maybe use: [sharing](https://patternflyelements.org/components/clipboard/)
 
 - Word not in database
     - Spellcheck API? ?
