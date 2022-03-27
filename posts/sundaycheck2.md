@@ -45,3 +45,11 @@ layout: layouts/post.njk
     - Connect to api (either dictionary or the random generator one)
     - Get word of day (Is there some sort of timer to connect to?)
     - Spell check api connection? (checks spelling, may be used to see letter position?)
+- wordCheck.js
+  - This may not be necessary (wordGenerate could possibly cover the requirements)
+  - Required to:
+      - only run when the user enters a letter that is in the correct answer
+      - Connect to the spell check api
+      - Read the user input, return whichever letters are correct
+          - this is position based, going to need to know where letters are specifically
+     
