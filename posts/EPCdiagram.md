@@ -14,4 +14,4 @@ As we begin to dive into the relationship between Wordle and the user, we have d
 By using the event-driven process chain format, it exposes the processes that are not inherently visible to the user. It also specifies the different paths and use cases when the user plays the game. It also diagrams the autonomous work flow so that we can have a better handle on the processes that we need to replicate.
 
 
-![Wordle EPC](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qqe44zlt28170vgqvr2i.png)
+![Wordle EPC](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ajdc7yy7yoojc2b455s.png)
