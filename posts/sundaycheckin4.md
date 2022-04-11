@@ -170,5 +170,6 @@ initBoard();
 
 https://github.com/TaylorMorini/Final-Project-Word-Game/blob/main/src/woordle.js
 https://github.com/TaylorMorini/Final-Project-Word-Game/blob/main/api/wordGenerate.js
+https://github.com/Nick-Telles/Final-Project-Word-Game
 https://github.com/abbeylyle4/Final-Project-Word-Game/tree/main
 https://github.com/GigiFitiany/Final-Project-Word-Game
