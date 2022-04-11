@@ -168,8 +168,11 @@ initBoard();
        (shoutout to the other wordle group)
    * got 5 letter words to be produced  
 
+
+[Main GitHub repository](https://github.com/abbeylyle4/Final-Project-Word-Game/tree/main) 
+
+(Seperate repos that have yet to be merged at this time)
 https://github.com/TaylorMorini/Final-Project-Word-Game/blob/main/src/woordle.js
 https://github.com/TaylorMorini/Final-Project-Word-Game/blob/main/api/wordGenerate.js
 https://github.com/Nick-Telles/Final-Project-Word-Game
-https://github.com/abbeylyle4/Final-Project-Word-Game/tree/main
 https://github.com/GigiFitiany/Final-Project-Word-Game
